@@ -1,0 +1,29 @@
+"captain_order"
+{
+	"General order" // order name in menu
+	{
+		// order that the captain say in chat
+		"order" "Go to jail crouched and without detours, the Ts that have a weapon dies go go go!!"
+	}
+	"Go Jail"
+	{
+		"order" "Go to jail!"
+	}
+	"Go pool"
+	{
+		"order" "Go to pool!"
+	}
+	"Go Football"
+	{
+		"order" "Go to Football!"
+	}
+	"Run"
+	{
+		"order" "Running!"
+	}
+	"Crouched"
+	{
+		"order" "Crouched!"
+	}
+
+}
