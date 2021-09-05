@@ -5,55 +5,65 @@
 		"#format"		"{1:s}"
 		"en"		"The captain {1} is using voice chat"
         	"es"        	"El capitan {1} esta usando su voz"
+		"ru"		"Капитан {1} использует голосовой чат"
 	}
 	"last order"
 	{
 		"#format"		"{1:s}"
 		"en"		"Last order of captain:\n{1}"
         	"es"        	"Ultima orden del capitan:\n{1}"
+		"ru"		"Последний приказ капитана:\n{1}"
 	}
 	"You must be alive or be a CT for be a captain!"
 	{
 		"en"		"You must be alive or be a CT for be a captain!"
         	"es"        	"Debes estar vivo o ser CT para ser capitan!"
+		"ru"		"Чтобы стать капитаном, нужно быть живым или быть СП!"
 	}
 	"Captain already exist!"
 	{
 		"en"		"Captain already exist!"
         	"es"        	"Ya existe un capitan!"
+		"ru"		"Капитан уже есть!"
 	}
 	"You are not the captain!"
 	{
 		"en"		"You are not the captain!"
         	"es"        	"Tu no eres el capitan!"
+		"ru"		"Вы не капитан!"
 	}
 	"no longer"
 	{
 		"#format"		"{1:s}"
 		"en"		"The guard {1} is no longer captain! the captain is vacant!"
         	"es"        	"El guardia {1} ha dejado de ser capitan! el puesto de capitan queda vacante!"
+		"ru"		"Охранник {1} больше не капитан! Место капитана свободно!"
 	}
 	"obey"
 	{
 		"#format"		"{1:s}"
 		"en"		"The captain is {1} - obey to the captain!"
         	"es"        	"El guardia es {1} - obedecer todos al capitan!"
+		"ru"		"Капитан - {1} - подчиняйтесь капитану!"
 	}
 	"Captain say"
 	{
 		"#format"		"{1:s}"
 		"en"		"Captain say: {1}"
         	"es"        	"El capitan dice: {1}"
+		"ru"		"Капитан говорит: {1}"
 	}
 	"Captain has been removed by an administrator. You can now choose a new one"
 	{
 		"en"		"Captain has been removed by an administrator. You can now choose a new one"
         	"es"        	"El capitan ha sido quitado por un administrador. Ahora se puede elegir uno nuevo"
+		"ru"		"Капитан был удалён администратором. Теперь вы можете выбрать нового"
 	}
 	"Captain still not exist!"
 	{
 		"en"		"Captain still not exist!"
         	"es"        	"El capitan sigue sin existir!"
+		"ru"		"Капитана всё ещё нет!"
 	}
 
 }
